@@ -10,6 +10,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --!>
+### Where to find me
+ - [Twitter](https://twitter.com/len_great)
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
