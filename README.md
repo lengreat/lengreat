@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Leonardo</h1>
+<h3 align="center">Self taught Developer. Electrical Engineer. Graphic Designer</h3>
 
 
 - 🌱 I’m currently learning Front End
