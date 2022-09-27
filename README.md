@@ -1,4 +1,4 @@
-### Hi there, my name is Carlos Leonardo 👋
+<h1 align="center">Hi 👋, I'm Carlos Leonardo</h1>
 
 
 - 🌱 I’m currently learning Front End
