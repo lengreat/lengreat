@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/99779642/201330566-54bf7ebc-f797-4109-ae2f-2cb71ff8215a.jpg" alt="VSCode" width="1100" height="180"/>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/99779642/201330566-54bf7ebc-f797-4109-ae2f-2cb71ff8215a.jpg" alt="VSCode" width="1100" height="150"/></h1>
 <!--
 <h1 align="center">Hi 👋, I'm Carlos Leonardo</h1>
 -->
