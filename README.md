@@ -4,7 +4,8 @@
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/99779642/201346193-8ff56894-179c-49ee-b6d1-27a06c03d868.jpg" alt="Banner" width="1100" height="150"/></h1>
 
-<h3 align="center">Self taught Developer. Electrical Engineer. Graphic Designer</h3>
+<!--<h3 align="center">Self taught Developer. Electrical Engineer. Graphic Designer</h3>-->
+<h3 align="center">SELF TAUGHT DEVELOPER | ELECTRICAL ENGINEER | GRAPHIC DESIGNER</h3>
 
 
 
