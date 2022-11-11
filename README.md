@@ -1,5 +1,7 @@
+![bannerGit](https://user-images.githubusercontent.com/99779642/201330566-54bf7ebc-f797-4109-ae2f-2cb71ff8215a.jpg)
 <h1 align="center">Hi 👋, I'm Carlos Leonardo</h1>
 <h3 align="center">Self taught Developer. Electrical Engineer. Graphic Designer</h3>
+
 
 
 - 🌱 I’m currently learning Front End
