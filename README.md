@@ -1,7 +1,11 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/99779642/201330566-54bf7ebc-f797-4109-ae2f-2cb71ff8215a.jpg" alt="VSCode" width="1100" height="150"/></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/99779642/201330566-54bf7ebc-f797-4109-ae2f-2cb71ff8215a.jpg" alt="Banner" width="1100" height="150"/></h1>
 <!--
 <h1 align="center">Hi 👋, I'm Carlos Leonardo</h1>
 -->
+<h1 align="center"><img src="https://user-images.githubusercontent.com/99779642/201340978-513d2efd-12a2-49f2-af15-be73824d84a5.jpg" alt="Banner" width="1100" height="150"/></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/99779642/201341009-7a350714-18a1-4ae2-9bb8-98f97a95b2f0.jpg" alt="Banner" width="1100" height="150"/></h1>
+
+
 <h3 align="center">Self taught Developer. Electrical Engineer. Graphic Designer</h3>
 
 
